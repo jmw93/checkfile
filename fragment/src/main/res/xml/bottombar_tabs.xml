@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <tabs>
+        <tab
+            id="@+id/tab_home"
+            title="home"
+            icon="@drawable/baseline_home_black_18dp"
+            />
+
+        <tab
+            id="@+id/tab_language"
+            title="Translate"
+            icon="@drawable/baseline_translate"
+
+            />
+
+        <tab
+            id="@+id/tab_tour"
+            title="Tour"
+            icon="@drawable/outline_landscape_black_18dp"
+
+            />
+
+        <tab
+            id="@+id/tab_GPS"
+            title="GPS"
+            icon="@drawable/outline_email_black_18dp"
+            />
+
+    </tabs>
+</PreferenceScreen>
